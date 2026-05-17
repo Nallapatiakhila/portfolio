@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This website showcases my skills, experience, and projects as a Software Engineer and Full Stack Developer. It is built with modern web technologies, featuring a sleek dark theme, glassmorphism UI elements, and smooth animations.
 
 ## Live Demo
-*(You can add your deployed Vercel/Netlify link here later)*
+*[(You can add your deployed Vercel/Netlify link here later)](https://portfolio-woad-iota-64.vercel.app/)*
 
 ## Features
 - **Responsive Design**: Looks great on both desktop and mobile devices.
